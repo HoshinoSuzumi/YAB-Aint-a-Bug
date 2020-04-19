@@ -1,0 +1,2 @@
+rootProject.name='YAB Aint a Bug'
+include ':app'
